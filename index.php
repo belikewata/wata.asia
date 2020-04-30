@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.dot.asia/author/kelvintruong/");
+header("Location: https://www.linkedin.com/in/kelvintruong/?originalSubdomain=hk");
 exit();
 ?>
